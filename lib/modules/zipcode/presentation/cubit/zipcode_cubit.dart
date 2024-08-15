@@ -1,3 +1,4 @@
+// ignore: depend_on_referenced_packages
 import 'package:bloc/bloc.dart';
 import 'package:search_zipcode/modules/zipcode/domain/usescases/get_address_by_zipcode_usecase.dart';
 import 'package:search_zipcode/modules/zipcode/presentation/cubit/zipcode_state.dart';
